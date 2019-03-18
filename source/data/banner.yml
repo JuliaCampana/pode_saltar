@@ -1,0 +1,24 @@
+depressão:
+  titulo: 'Depressão'
+  subtitulo: 'Estou perdido e sem propósito.'
+  foto: 'depressao.jpg'
+
+angústia:
+  titulo: 'Angústia'
+  subtitulo: 'Ansiedade não me deixa dormir.'
+  foto: 'angustia.jpg'
+
+agressividade:
+  titulo: 'Agressividade'
+  subtitulo: 'Não aguento mais sofrer.'
+  foto: 'agressividade.jpg'
+
+fobias:
+  titulo: 'Fobias'
+  subtitulo: 'Queria parar mas não consigo.'
+  foto: 'fobias.jpg'
+
+hipnose:
+  titulo: 'hipnose'
+  subtitulo: 'A cura de traumas através de um tratamento sério e profissional.'
+  foto: 'hipnose.jpg'
